@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">UdacityLoginFlow</string>
+    <string name="loginflowchallenge">LoginFlowChallenge</string>
+    <string name="email_address_user_name">Email Address /User Name</string>
+    <string name="login_to_your_account">Login To Your Account</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="log_in">Log In</string>
+    <string name="google">Google</string>
+    <string name="facebook">Facebook</string>
+    <string name="welcome_user">Welcome User</string>
+    <string name="logout">Logout</string>
+    <string name="extra_text">This is the challenge to implement the login flow. In this user can also see the user session management
+    . Check this out and you can also logout</string>
+    <string name="create_your_account">Create your Account</string>
+    <string name="name">Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="forgot_text">Please enter your registered email ID, So we can send a Password reset link.</string>
+    <string name="email_adddress">Email Adddress</string>
+    <string name="send">Send</string>
+</resources>
